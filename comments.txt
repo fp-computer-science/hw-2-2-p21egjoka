@@ -1,0 +1,3 @@
+The variables should have stored the number of each basket scored, not their point value.
+
+Where is the equation?
